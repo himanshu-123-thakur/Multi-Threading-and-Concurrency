@@ -1,0 +1,38 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Builds / binaries
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.out
+a.out
+
+# Logs / dumps
+*.log
+*.core
+hs_err_pid*.log
+
+# Archives / large files
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+*.pdf
+*.pcap
+*.pcapng
+*.hdf
+*.iso
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
