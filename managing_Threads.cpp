@@ -35,7 +35,7 @@ try–catch block, the control may exit the function before join() is called. In
 unexpected exception can skip cleanup and lead to abrupt termination.
 */
     thread t (function_1);
-    try{
+try{
     for(int i =0;i<100;i++){
         cout<<"from main : "<<i<<endl;
     }
