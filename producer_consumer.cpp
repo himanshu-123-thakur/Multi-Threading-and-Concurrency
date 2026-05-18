@@ -149,3 +149,4 @@ int main()
 
 
 //script --> read from json IP from both cient and server //iperf
+//each ue one i[perf]
